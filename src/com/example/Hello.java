@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("Hello World!!");
 		System.out.println("Welcome to Capgemini!!");
 		System.out.println("Have a nice day!!!");
-		System.out.println("Thankyou");
+		System.out.println("Welcome");
 
 	}
 
